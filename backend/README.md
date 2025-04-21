@@ -2,7 +2,7 @@
 - Make sure you have Python installed.
 - Install Flask:
 ```bash
-pip3 install Flask
+pip3 install Flask Flask-Cors
 ```
 
 # Running the server
